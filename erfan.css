@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+hr{
+    border-width: 10px;
+}
+body{
+    background-color: aqua;
+    border: 10px solid rgb(233, 8, 8);
+
+}
+
